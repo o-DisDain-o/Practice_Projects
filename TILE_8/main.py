@@ -92,9 +92,6 @@ def checkConfig():
             genConfig()
             time.sleep(3)
             
-    
-
-
 genConfig() 
 while running :
     clock.tick(fps)
